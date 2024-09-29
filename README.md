@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Expo**
 
-- 💬 Ask me about **React,Sql.**
+- 💬 Ask me about **Rest Api**
 
 - 📫 How to reach me **syeedimtiaz111@gmail.com**
 
